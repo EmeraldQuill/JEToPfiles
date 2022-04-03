@@ -1,0 +1,16 @@
+html, body { height: 100%; }
+
+
+
+.footer {
+    height: 25%; 
+}
+.push{
+    height: 10%;
+}
+.navbar-brand {
+    padding-top: 2.3125rem;
+    padding-bottom: 2.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem; 
+}
